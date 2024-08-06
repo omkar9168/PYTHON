@@ -1,3 +1,3 @@
-from hello import chai
+from hello_chai import chai
 
 chai("Omkar Ghadge")
