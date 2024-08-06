@@ -1,3 +1,3 @@
 from hello_chai import chai
 
-chai("Omkar Ghadge")
+chai("Masala Tea")
